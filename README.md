@@ -1,5 +1,5 @@
 # RasPiAudioPlayer
-Use a Raspberry Pi and 5 buttons (start/pause, next, previous, vol +, vol -) as an audio player. An LED lights up when a sound is playing.
+Use a Raspberry Pi and 5 buttons (start/pause, next, previous, vol +, vol -) as an audio player. An LED lights up when a sound is playing. Songs are played automatically after another.
 
 I tested this on a Raspberry Pi Zero W, with Raspbian Buster Lite (2019-09-26)
 
